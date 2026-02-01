@@ -17,8 +17,6 @@ This project was developed as a final-year demonstration of applying predictive 
 ##  Methodology
 The project follows a standard Machine Learning pipeline:
 
-
-
 1. **Data Acquisition:** Historical gold futures data (`GC=F`) is pulled directly from Yahoo Finance.
 2. **Feature Engineering:** To capture market momentum, I calculated:
     * **S_3:** 3-day Moving Average
@@ -41,3 +39,9 @@ The model successfully tracks the general trend of gold prices.
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/gold-price-prediction.git](https://github.com/YOUR_USERNAME/gold-price-prediction.git)
+   
+ 2. Install dependencies:
+pip install -r requirements.txt
+
+4. Run the script:
+python gold_predictor.py
