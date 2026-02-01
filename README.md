@@ -7,7 +7,7 @@ This project is a financial data analysis and machine learning tool designed to 
 
 This project was developed as a final-year demonstration of applying predictive analytics to real-world financial assets.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 * **Language:** Python 3.x
 * **Data Source:** [Yahoo Finance API (yfinance)](https://pypi.org/project/yfinance/)
 * **Libraries:** * `Pandas` - Data manipulation and analysis
@@ -15,7 +15,7 @@ This project was developed as a final-year demonstration of applying predictive 
     * `Scikit-Learn` - Machine learning and evaluation
     * `Matplotlib` - Data visualization
 
-## 📊 Methodology
+##  Methodology
 The project follows a standard Machine Learning pipeline:
 
 
@@ -28,7 +28,7 @@ The project follows a standard Machine Learning pipeline:
 4. **Modeling:** A **Linear Regression** algorithm is applied to find the relationship between the moving averages and the closing price.
 5. **Evaluation:** The model is evaluated using R-Squared ($R^2$) and Mean Absolute Error (MAE).
 
-## 📈 Results
+##  Results
 The model successfully tracks the general trend of gold prices. 
 * **R2 Score:** ~0.90 (Example)
 * **Mean Absolute Error:** ~$12.00 (Example)
@@ -37,7 +37,7 @@ The model successfully tracks the general trend of gold prices.
 
 [Add your plot image here later: ![Prediction Plot](plot.png)]
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/gold-price-prediction.git](https://github.com/YOUR_USERNAME/gold-price-prediction.git)
