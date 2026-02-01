@@ -35,7 +35,8 @@ The model successfully tracks the general trend of gold prices.
 
 *Note: The plot below shows the alignment between the actual market prices and our model's predictions.*
 
-[Add your plot image here later: ![Prediction Plot](plot.png)]
+<img width="859" height="470" alt="image" src="https://github.com/user-attachments/assets/544eec30-3d3e-4207-93a3-9b939886cc06" />
+[Prediction Plot](plot.png)]
 
 ##  How to Run
 1. Clone the repository:
